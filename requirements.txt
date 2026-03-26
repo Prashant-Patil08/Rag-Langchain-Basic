@@ -1,0 +1,11 @@
+google-genai
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+langchain-experimental
+chromadb
+python-dotenv
+pydantic
+tqdm
