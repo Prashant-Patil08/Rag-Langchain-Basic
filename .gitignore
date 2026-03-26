@@ -4,4 +4,5 @@ __pycache__/
 .env
 chroma_db/
 data/
-input_pdfs/
+input_pdfs/*.pdf
+data/*.md/
