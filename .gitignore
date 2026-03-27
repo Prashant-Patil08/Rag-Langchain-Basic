@@ -6,3 +6,7 @@ chroma_db/
 data/
 input_pdfs/*.pdf
 data/*.md/
+frontend/node_modules/
+frontend/dist/
+node_modules/
+dist/
